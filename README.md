@@ -12,7 +12,7 @@ This project uses Software Defined Radio (SDR) devices like HackRF One and Blade
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/wireless-signal-scanner.git
+git clone https://github.com/andyvpoeijer188/LTE-WiFi-BT-Scanner.git
 cd wireless-signal-scanner
 ```
 
